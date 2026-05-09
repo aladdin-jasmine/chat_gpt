@@ -8,3 +8,13 @@ passlib[bcrypt]
 python-jose
 pydantic
 rich
+langchain
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+transformers
+torch
+openai
+faiss-cpu
+python-dotenv
